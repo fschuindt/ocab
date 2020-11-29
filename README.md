@@ -1,6 +1,8 @@
 # Lista OCAB
 **Observatórios e Clubes Astronômicos do Brasil**
 
+![ocab](https://i.postimg.cc/XvRzFD7C/ocab.jpg)
+
 Para adcionar um seu observatório ou clube, por favor mande um email para `f.schuindtcs@gmail.com` com o assunto `OCAB`, ou mande um pull request para este repositório.
 
 ## Acre (AC)
