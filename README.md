@@ -1,4 +1,5 @@
-# Lista OCAB (Observatórios e Clubes Astronômicos do Brasil)
+# Lista OCAB
+**Observatórios e Clubes Astronômicos do Brasil**
 
 Para adcionar um seu observatório ou clube, por favor mande um email para `f.schuindtcs@gmail.com` com o assunto `OCAB`, ou mande um pull request para este repositório.
 
