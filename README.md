@@ -13,6 +13,15 @@ Para adcionar um seu observatório ou clube, por favor mande um email para `f.sc
 
 ## Amazonas (AM)
 
+### Clubes
+
+### Observatórios
+
+#### Observatório Astronômico Rei do Universo
+**Facebook:** [https://www.facebook.com/OARU.Manaus/](https://www.facebook.com/OARU.Manaus/)  
+**Astrobin:** [http://www.astrobin.com/users/geonobre/](http://www.astrobin.com/users/geonobre/)  
+**YouTube**: [https://www.youtube.com/c/OARUManaus](https://www.youtube.com/c/OARUManaus)  
+
 ## Bahia (BA)
 
 ## Ceará (CE)
