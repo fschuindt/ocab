@@ -64,6 +64,9 @@ Para adcionar um seu observatório ou clube, por favor mande um email para `f.sc
 **Instagram:** [https://www.instagram.com/sease.astronomia/](https://www.instagram.com/sease.astronomia/)  
 **Facebook:** [https://www.facebook.com/seaseastronomia/](https://www.facebook.com/seaseastronomia/)  
 
+#### - Clube Astronomia IFS - Campus Lagarto
+**Facebook:** [https://www.facebook.com/cailaifslag](https://www.facebook.com/cailaifslag)  
+
 ### Observatórios
 
 ## Tocantins (TO)
